@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+h1{
+    color: deeppink;
+}
+img{
+    height: 870px;
+    width: 1000px;
+    border-width: 5px;
+    border-color: aquamarine;
+    padding: 5px;
+}
